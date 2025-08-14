@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116352543590",
+    "project_id": "agropulse360-adb10",
+    "storage_bucket": "agropulse360-adb10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116352543590:android:7dbf1759a18acec8f5b6a7",
+        "android_client_info": {
+          "package_name": "com.agropulse360.livestockapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9V444zj-2bw-HD_gmTRexHhZ7EGZcCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
